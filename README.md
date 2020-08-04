@@ -1,1 +1,1 @@
-# clicker
+# clicker.github.io
